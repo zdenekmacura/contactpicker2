@@ -17,6 +17,6 @@
         Zdenek Macura
     </author>
     <gap:plugin name="org.apache.cordova.contacts" version="0.2.13" />
-    <content src="www/index.html" />
+    <content src="index.html" />
 
 </widget>
